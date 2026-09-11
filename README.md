@@ -1,9 +1,9 @@
-Genese Training
+# Genese Training
 
-Day 1:
+## Day 1:
 
 - WSL, Linux
 - Common bash commands
 - Linux package manuplation
 - Shell scripting introduction
-- Git basics
+- Git basics, ssh key, PR, branching, merge and rebase,
