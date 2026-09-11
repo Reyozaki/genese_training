@@ -1,0 +1,1 @@
+/home/vel/Storage/backup/obsidian/benkyo/Genese Training/Week 1.md
