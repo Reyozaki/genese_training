@@ -7,3 +7,7 @@
 - Linux package manuplation
 - Shell scripting introduction
 - Git basics, ssh key, PR, branching, merge and rebase,
+
+## Day 2:
+
+- QA,
