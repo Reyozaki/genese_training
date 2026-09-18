@@ -22,3 +22,15 @@ Prioritization
 - effort to impact
 - rice prioritization: reach, impact, confidence, based on service 
 - moscow technique: must have, should have, could have, won't have
+
+C4 arhcitecture for modeling systems.
+
+Feedback loop:
+Feedback should be backed by data, "why".
+- Sprint goal
+- Requirements
+- Impact Analysis
+	- Team capacity
+	- G1 impact
+	- Context switching
+- Change Control Board (COB) \[Project Management]

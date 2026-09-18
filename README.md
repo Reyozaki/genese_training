@@ -10,4 +10,10 @@
 
 ## Day 2:
 
-- QA,
+- QA, SDLC, Agile, Jira
+
+## Day 3:
+
+- Project Training
+- Group project thinking simulation
+- Stakeholder, Project owner, Scrum master, Dev, QA
